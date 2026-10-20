@@ -34,5 +34,5 @@ How did unemployment rates across US states evolve from 2000 to 2025, and what w
 ### Installation
 1. Clone this repository:
    ```bash
-   git clone https://github.com/[你的GitHub用户名]/data-science-project.git
+   git clone https://github.com/[ZhangZiYang2026]/data-science-project.git
    cd data-science-project
